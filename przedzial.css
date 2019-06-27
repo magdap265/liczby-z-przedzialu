@@ -1,0 +1,12 @@
+body{
+    background-color: #032b0f;
+    color: beige;
+    text-align: center;
+    margin: 50px;
+}
+
+input{
+    background-color:#aaa;
+    border-radius: 5px;
+    padding: 3px; 
+}
