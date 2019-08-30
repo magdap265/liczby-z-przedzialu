@@ -5,10 +5,10 @@ function przedzial() {
 
 
 
-    console.log(liczba1);
-    console.log(Number(liczba1));
-    console.log(Number(liczba1) != NaN);
-    console.log(isNaN(Number(liczba1)));
+    // console.log(liczba1);
+    // console.log(Number(liczba1));
+    // console.log(Number(liczba1) != NaN);
+    // console.log(isNaN(Number(liczba1)));
     if (isNaN(Number(liczba1)) && isNaN(Number(liczba2))) {
         liczba = "Wartości w obu polach nie są liczbami";
     } else if (isNaN(Number(liczba1))) {
